@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Voke Here
+
+> 💬 Discord: ! Voke#1234
+
+### self taught coding skills
+
+> Lua, TypeScript, Javascript, Python, SQL, VueJS, ReactJS, TailwindCSS, CSS, HTML
+
 
 <!--
 **0x1Voke/0x1Voke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
